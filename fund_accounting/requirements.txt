@@ -6,7 +6,7 @@ datetime-quarter==1.0.3
 defusedxml==0.6.0
 diff-match-patch==20181111
 dj-database-url==0.5.0
-Django==3.0.7
+Django==3.1.6
 django-extensions==2.2.9
 django-hordak==1.10.0
 django-import-export==2.2.0
